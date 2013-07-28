@@ -1,3 +1,10 @@
+Open Source Universal Remote schematic/board
+
+This schematic/board is based off the Adafruit Prototyping Pi Plate.
+
+
+--------------
+
 Adafruit Prototyping Pi Plate
 
 These are the Eagle CAD files for the Adafruit Prototyping Pi Plate:
